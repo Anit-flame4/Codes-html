@@ -1,0 +1,70 @@
+body{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Eb2L4pY8YUp-2wWS0UC2KQa5qRiC3fFDQg&usqp=CAU");
+	  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+header{
+	display: flex;
+
+}
+
+.main{
+	padding: 20px 600px;
+}
+img{
+	width: 130px;
+	height: auto;
+}
+.call{
+	font-size: 20px;
+	color: white;
+	padding: 15px 25px;
+}
+
+.name{
+	padding: 0px 0px;
+	font-size: 30px;
+	color: white;
+}
+
+.yo{
+	color: white;
+	font-size: 25;
+	padding: 5px 20px;
+}
+
+nav{
+	margin: 30px 0px;
+	display: flex;
+
+}
+
+.icon-nav{
+	display: flex;
+	align-items: center;
+	padding: 100px 210px;
+	color: #1f1817;
+	font-size: 20px;
+
+}
+
+.end{
+	color: #fff;
+	padding: 30px 630px;
+	font-size: 40px;
+	background: #225980;
+	border-radius: 10%;
+	
+}
+
+.icon-nav:hover{
+	background-color: #4324b3;
+	color: white;
+}
+
+.end:hover{
+	background-color: yellow;
+	color: red;
+}
